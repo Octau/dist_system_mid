@@ -8,6 +8,8 @@ Before using the program, install [.ENV](https://pypi.org/project/python-dotenv/
 pip install python-dotenv
 ```
 
+Simply clone the files from this repository 
+
 ## Running the program
 
 `server.py` is need to be run as the server for the chat application
