@@ -8,7 +8,7 @@ Before using the program, install [.ENV](https://pypi.org/project/python-dotenv/
 pip install python-dotenv
 ```
 
-Simply clone the files from this repository 
+Simply clone the files from this repository and run the file respectively.
 
 ## Running the program
 
@@ -17,4 +17,4 @@ Simply clone the files from this repository
 `client.py` is the client for the chat application
 
 ## Configuration
-You can set ip address and server port used for both `server.py` and `client.py` in `.env` 
+You can set ip address and server port used for both `server.py` and `client.py` in `.env` .
